@@ -99,9 +99,25 @@ An offline-first learning application designed to support Santali language educa
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=dhanyata2009-sudo&show_icons=true&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9" />
+<!-- GitHub Stats -->
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=dhanyata2009-sudo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyata2009-sudo&layout=compact&theme=transparent&hide_border=true&title_color=2DD4BF&text_color=C9D1D9" />
+<!-- Most Used Languages -->
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyata2009-sudo&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dhanyata2009-sudo&theme=tokyonight&hide_border=true" width="90%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanyata2009-sudo&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
@@ -115,7 +131,7 @@ An offline-first learning application designed to support Santali language educa
 <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="(https://www.linkedin.com/in/dhanyata-kate)">
 <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
