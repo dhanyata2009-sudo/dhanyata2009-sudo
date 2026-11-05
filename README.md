@@ -83,16 +83,6 @@ An independently developed browser-based sign language recognition application.
 - Gesture recognition using hand landmark information.
 - Local storage for training data.
 
-**03 / BharatSetu**
-
-*Offline Santali Learning Bridge*
-
-An offline-first learning application designed to support Santali language education.
-
-- Exploring speech recognition and language translation.
-- Designed for low-connectivity classroom environments.
-- Working with offline learning technologies.
-
 ---
 
 ### ◈ 04 — GITHUB ANALYTICS
@@ -108,13 +98,13 @@ src="https://github-readme-stats.vercel.app/api?username=dhanyata2009-sudo&show_
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyata2009-sudo&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
+----
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=dhanyata2009-sudo&theme=tokyonight&hide_border=true" width="90%" />
 
 </div>
-
+----
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanyata2009-sudo&theme=tokyo-night&hide_border=true" width="100%" />
