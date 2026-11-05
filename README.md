@@ -1,91 +1,128 @@
-# Hi, I'm Dhanyata Kate! 👋
+<!-- =============== HEADER =============== -->
 
-<!-- Profile Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Dhanyata%20Kate&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20Tomorrow's%20Tech%20Today&descAlignY=65&descSize=18" width="100%" />
+<div align="center">
 
-<h3 align="center">Computer Engineering Student | Full-Stack Developer | AI/ML Enthusiast</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:115E59,100:22D3EE&height=220&section=header&text=DHANYATA%20KATE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20ENGINEERING%20%7C%20SOFTWARE%20%7C%20AI&descSize=14&descAlignY=60&descColor=CCFBF1" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanyata2009-sudo&label=Profile%20Views&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/github/followers/dhanyata2009-sudo?label=Followers&style=flat&color=blue" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Exploring+AI+%26+Machine+Learning;Building+Ideas+Into+Applications" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=dhanyata2009-sudo&style=flat-square&color=0F766E)](https://github.com/dhanyata2009-sudo)
+[![GitHub followers](https://img.shields.io/github/followers/dhanyata2009-sudo?style=flat-square&color=0F766E)](https://github.com/dhanyata2009-sudo?tab=followers)
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+### ◈ 01 — WHO AM I?
 
-- 🎓 Final-year Diploma Computer Engineering student.
-- 💻 Interested in Full-Stack Development and Artificial Intelligence.
-- 🤖 Exploring AI integration and building practical applications.
-- 🚀 Enjoy developing projects and learning new technologies.
-- 🎯 Looking for internship opportunities in Software Development and AI/ML.
+```yaml
+Name: Dhanyata Kate
+Education: Diploma in Computer Engineering
+Interests:
+  - Full-Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+Currently: Learning, Building & Experimenting
+Goal: Software Development / AI-ML Internship
+```
 
-## 🛠️ Skills & Technologies
+I enjoy turning ideas into functional applications and exploring how software and AI can solve real-world problems. I believe in learning by building and continuously improving my technical skills.
 
-**Languages**
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
+
+### ◈ 02 — TECHNOLOGY TOOLKIT
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=2DD4BF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=flat-square&logo=javascript&logoColor=FACC15)
 
 **Frontend Development**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-0B1220?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0B1220?style=flat-square&logo=css3&logoColor=1572B6)
+![Tailwind](https://img.shields.io/badge/Tailwind-0B1220?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
 **Backend & Database**
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-0B1220?style=flat-square&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B1220?style=flat-square&logo=mongodb&logoColor=47A248)
 
-**Tools & APIs**
+**Tools & AI**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
----
-
-## 🚀 Featured Projects
-
-### 1. DRAG.ai – AI-Powered Content Generator
-- AI-powered platform for UGC video and PPT generation.
-- Integrated Gemini API for AI-based content generation.
-- Worked on backend workflows and API integration.
-
-### 2. SignAI – Sign Language Recognition
-- Independently developed a browser-based sign language recognition application.
-- Integrated MediaPipe for real-time hand gesture detection and recognition.
-
-### 3. BharatSetu – Offline Santali Learning Bridge
-- Working on an offline-first Santali learning application.
-- Focused on supporting classroom learning through language technology.
+![Git](https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=FFFFFF)
+![Gemini](https://img.shields.io/badge/Gemini_API-0B1220?style=flat-square&logo=google&logoColor=8AB4F8)
+![REST API](https://img.shields.io/badge/REST_API-0B1220?style=flat-square&logo=fastapi&logoColor=FFFFFF)
 
 ---
 
-## 📊 GitHub Statistics
+### ◈ 03 — PROJECT LAB
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanyata2009-sudo&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyata2009-sudo&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+**01 / DRAG.ai**
+
+*AI-Powered Content Generator*
+
+An AI-powered platform for generating UGC videos and presentations.
+
+- Gemini API integration for AI-based content generation.
+- Backend workflows and API connectivity.
+- HeyGen API integration for video generation.
+
+**02 / SignAI**
+
+*AI-Based Sign Language Recognition*
+
+An independently developed browser-based sign language recognition application.
+
+- MediaPipe integration for real-time hand tracking.
+- Gesture recognition using hand landmark information.
+- Local storage for training data.
+
+**03 / BharatSetu**
+
+*Offline Santali Learning Bridge*
+
+An offline-first learning application designed to support Santali language education.
+
+- Exploring speech recognition and language translation.
+- Designed for low-connectivity classroom environments.
+- Working with offline learning technologies.
 
 ---
 
-## 🤝 Connect With Me
+### ◈ 04 — GITHUB ANALYTICS
 
-<p align="center">
-  <a href="https://github.com/dhanyata2009-sudo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  ✨ Learning, Building and Growing Every Day!
-</p>
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=dhanyata2009-sudo&show_icons=true&theme=transparent&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9" />
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyata2009-sudo&layout=compact&theme=transparent&hide_border=true&title_color=2DD4BF&text_color=C9D1D9" />
+
+</div>
+
+---
+
+### ◈ 05 — LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/dhanyata2009-sudo">
+<img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<br/><br/>
+
+**BUILD. LEARN. EXPERIMENT. REPEAT.**
+
+<sub>Designed with curiosity and a passion for technology.</sub>
+
+</div>
